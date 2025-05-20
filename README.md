@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>Terraform Projects (AlgoExpert)</b>
-  - [Portfolio site project -AWS Resume Challenge and some-][(https://github.com/Quay302/portfolio-site-project)]
+  - Portfolio site project -AWS Resume Challenge and some- [(https://github.com/Quay302/portfolio-site-project)]
 
 
 <h2>Certifications</h2>
